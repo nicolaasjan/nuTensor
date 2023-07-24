@@ -24,7 +24,7 @@ Remember that you have to update manually also. For some users, updating manuall
 
 Although nuTensor is a restartless addon, I found that **installing** a newer version over an older one often will glitch the installation. These steps always worked fine:
 
-- Download `nuTensor.firefox.xpi` ([latest release desirable](https://github.com/geekprojects/nuTensor/releases)). 
+- Download `nuTensor.firefox.xpi` ([latest release desirable](https://github.com/nicolaasjan/nuTensor/releases)). 
 - Uninstall current nuTensor if already installed
 - Quit Firefox completely
 - Launch Firefox
