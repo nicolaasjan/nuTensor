@@ -2,7 +2,7 @@
 
 #### Chromium
 
-- Download and unzip `nuTensor.chromium.zip` ([latest release desirable](https://github.com/geekprojects/nuTensor/releases)).
+- Download and unzip `nuTensor.chromium.zip` ([latest release desirable](https://github.com/nicolaasjan/nuTensor/releases)).
 - Rename the unzipped directory to `nuTensor`
     - When you later update manually, replace the **content** of the `nuTensor` folder with the **content** of the latest zipped version.
     - This will ensure that all the extension settings will be preserved
