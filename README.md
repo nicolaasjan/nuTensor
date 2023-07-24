@@ -6,8 +6,6 @@ This is a fork of the now-discontinued [uMatrix](https://github.com/gorhill/uMat
 
 ***
 
-Forked and refactored from [uMatrix](https://github.com/gorhill/uMatrix).
-
 ## Warnings
 
 #### Regarding broken sites
