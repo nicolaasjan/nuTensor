@@ -3,7 +3,6 @@
 Definitely for advanced users.
 
 This is a fork of the now-discontinued [uMatrix](https://github.com/gorhill/uMatrix).
-My focus will be on keeping it working on Firefox for now. I'll do my best to keep it working, but sadly no guarantees. Help will always be welcome!
 
 ***
 
