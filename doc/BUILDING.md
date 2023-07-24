@@ -8,8 +8,8 @@ Tools:
 
 You will need both this nuTensor and the nuAssets repositories. These should both be placed in the same directory:
 ```
-git clone https://github.com/geekprojects/nuAssets.git
-git clone https://github.com/geekprojects/nuTensor.git
+git clone https://github.com/nicolaasjan/nuAssets.git
+git clone https://github.com/nicolaasjan/nuTensor.git
 cd nuTensor
 ```
 
