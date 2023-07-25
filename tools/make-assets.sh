@@ -13,7 +13,7 @@ cp ./assets/assets.json $DES/
 
 if [ -n "${TRAVIS_TAG}" ]; then
   pushd .. > /dev/null
-  git clone --depth 1 https://github.com/geekprojects/nuAssets.git
+  git clone --depth 1 https://github.com/nicolaasjan/nuAssets.git
   popd > /dev/null
 fi
 
